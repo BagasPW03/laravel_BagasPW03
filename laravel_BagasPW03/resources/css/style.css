@@ -1,0 +1,17 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.nav-link.active {
+  background-color: #0d6efd !important;
+  color: white !important;
+}
+
+.nav-link {
+  color: #333;
+}
+
+.nav-link:hover {
+  background-color: #e9ecef;
+  color: #000;
+}
